@@ -1,0 +1,12 @@
+### Git Ignore ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+.DS_Store
+
+main
+
+.vs
+.vscode
